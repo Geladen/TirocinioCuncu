@@ -1,0 +1,54 @@
+meta.Bagging
+
+Correlation coefficient                  0.3977
+Mean absolute error                    780.2781
+Root mean squared error               1007.4286
+Relative absolute error                 95.4373 %
+Root relative squared error             91.3056 %
+Total Number of Instances              148     
+
+meta.RandomSubSpace
+
+Correlation coefficient                  0.3167
+Mean absolute error                    787.4884
+Root mean squared error               1053.0092
+Relative absolute error                 96.3192 %
+Root relative squared error             95.4367 %
+Total Number of Instances              148     
+
+rules.M5Rules
+
+Correlation coefficient                  0.2469
+Mean absolute error                    870.2974
+Root mean squared error               1154.5856
+Relative absolute error                106.4477 %
+Root relative squared error            104.6428 %
+Total Number of Instances              148     
+
+trees.M5P
+
+Correlation coefficient                  0.321 
+Mean absolute error                    846.5386
+Root mean squared error               1084.0684
+Relative absolute error                103.5417 %
+Root relative squared error             98.2517 %
+Total Number of Instances              148     
+
+trees.RandomForest
+
+Correlation coefficient                  0.4538
+Mean absolute error                    757.5107
+Root mean squared error               1002.0357
+Relative absolute error                 92.6525 %
+Root relative squared error             90.8168 %
+Total Number of Instances              148     
+
+functions.SMOreg
+
+Correlation coefficient                  0.3891
+Mean absolute error                   1075.9195
+Root mean squared error               1297.3737
+Relative absolute error                131.5977 %
+Root relative squared error            117.584  %
+Total Number of Instances              148     
+

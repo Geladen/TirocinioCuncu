@@ -1,0 +1,242 @@
+bayes.NaiveBayes
+
+Correctly Classified Instances         111               75      %
+Incorrectly Classified Instances        37               25      %
+Kappa statistic                          0.189 
+Mean absolute error                      0.2545
+Root mean squared error                  0.4995
+Relative absolute error                 65.2777 %
+Root relative squared error            113.353  %
+Total Number of Instances              148     
+
+bayes.NaiveBayesUpdateable
+
+Correctly Classified Instances         111               75      %
+Incorrectly Classified Instances        37               25      %
+Kappa statistic                          0.189 
+Mean absolute error                      0.2545
+Root mean squared error                  0.4995
+Relative absolute error                 65.2777 %
+Root relative squared error            113.353  %
+Total Number of Instances              148     
+
+functions.Logistic
+
+Correctly Classified Instances         111               75      %
+Incorrectly Classified Instances        37               25      %
+Kappa statistic                          0.0737
+Mean absolute error                      0.25  
+Root mean squared error                  0.4999
+Relative absolute error                 64.1195 %
+Root relative squared error            113.4623 %
+Total Number of Instances              148     
+
+functions.SGD
+
+Correctly Classified Instances         112               75.6757 %
+Incorrectly Classified Instances        36               24.3243 %
+Kappa statistic                          0.1093
+Mean absolute error                      0.2432
+Root mean squared error                  0.4932
+Relative absolute error                 62.3938 %
+Root relative squared error            111.932  %
+Total Number of Instances              148     
+
+functions.SimpleLogistic
+
+Correctly Classified Instances         110               74.3243 %
+Incorrectly Classified Instances        38               25.6757 %
+Kappa statistic                          0.1019
+Mean absolute error                      0.343 
+Root mean squared error                  0.443 
+Relative absolute error                 87.9931 %
+Root relative squared error            100.5314 %
+Total Number of Instances              148     
+
+functions.SMO
+
+Correctly Classified Instances         112               75.6757 %
+Incorrectly Classified Instances        36               24.3243 %
+Kappa statistic                          0.1093
+Mean absolute error                      0.2432
+Root mean squared error                  0.4932
+Relative absolute error                 62.3938 %
+Root relative squared error            111.932  %
+Total Number of Instances              148     
+
+functions.VotedPerceptron
+
+Correctly Classified Instances         106               71.6216 %
+Incorrectly Classified Instances        42               28.3784 %
+Kappa statistic                          0.0888
+Mean absolute error                      0.282 
+Root mean squared error                  0.5298
+Relative absolute error                 72.3267 %
+Root relative squared error            120.2284 %
+Total Number of Instances              148     
+
+meta.AdaBoostM1
+
+Correctly Classified Instances         113               76.3514 %
+Incorrectly Classified Instances        35               23.6486 %
+Kappa statistic                          0.1996
+Mean absolute error                      0.3443
+Root mean squared error                  0.4241
+Relative absolute error                 88.3105 %
+Root relative squared error             96.2466 %
+Total Number of Instances              148     
+
+meta.AttributeSelectedClassifier
+
+Correctly Classified Instances         110               74.3243 %
+Incorrectly Classified Instances        38               25.6757 %
+Kappa statistic                          0.1756
+Mean absolute error                      0.3568
+Root mean squared error                  0.4474
+Relative absolute error                 91.5147 %
+Root relative squared error            101.5277 %
+Total Number of Instances              148     
+
+meta.Bagging
+
+Correctly Classified Instances         111               75      %
+Incorrectly Classified Instances        37               25      %
+Kappa statistic                          0.189 
+Mean absolute error                      0.3505
+Root mean squared error                  0.4305
+Relative absolute error                 89.9019 %
+Root relative squared error             97.7104 %
+Total Number of Instances              148     
+
+meta.ClassificationViaRegression
+
+Correctly Classified Instances         112               75.6757 %
+Incorrectly Classified Instances        36               24.3243 %
+Kappa statistic                          0.1856
+Mean absolute error                      0.3645
+Root mean squared error                  0.44  
+Relative absolute error                 93.4933 %
+Root relative squared error             99.8643 %
+Total Number of Instances              148     
+
+meta.IterativeClassifierOptimizer
+
+Correctly Classified Instances         111               75      %
+Incorrectly Classified Instances        37               25      %
+Kappa statistic                          0.2055
+Mean absolute error                      0.3509
+Root mean squared error                  0.4307
+Relative absolute error                 90.0157 %
+Root relative squared error             97.7452 %
+Total Number of Instances              148     
+
+meta.LogitBoost
+
+Correctly Classified Instances         109               73.6486 %
+Incorrectly Classified Instances        39               26.3514 %
+Kappa statistic                          0.2106
+Mean absolute error                      0.3368
+Root mean squared error                  0.4282
+Relative absolute error                 86.3833 %
+Root relative squared error             97.172  %
+Total Number of Instances              148     
+
+meta.RandomCommittee
+
+Correctly Classified Instances         111               75      %
+Incorrectly Classified Instances        37               25      %
+Kappa statistic                          0.189 
+Mean absolute error                      0.2926
+Root mean squared error                  0.4313
+Relative absolute error                 75.0459 %
+Root relative squared error             97.8827 %
+Total Number of Instances              148     
+
+meta.RandomSubSpace
+
+Correctly Classified Instances         111               75      %
+Incorrectly Classified Instances        37               25      %
+Kappa statistic                          0.0952
+Mean absolute error                      0.3639
+Root mean squared error                  0.4201
+Relative absolute error                 93.3515 %
+Root relative squared error             95.3349 %
+Total Number of Instances              148     
+
+rules.DecisionTable
+
+Correctly Classified Instances         115               77.7027 %
+Incorrectly Classified Instances        33               22.2973 %
+Kappa statistic                          0.2767
+Mean absolute error                      0.3382
+Root mean squared error                  0.4122
+Relative absolute error                 86.7577 %
+Root relative squared error             93.5442 %
+Total Number of Instances              148     
+
+rules.JRip
+
+Correctly Classified Instances         113               76.3514 %
+Incorrectly Classified Instances        35               23.6486 %
+Kappa statistic                          0.2634
+Mean absolute error                      0.3448
+Root mean squared error                  0.4228
+Relative absolute error                 88.4451 %
+Root relative squared error             95.9492 %
+Total Number of Instances              148     
+
+rules.OneR
+
+Correctly Classified Instances         113               76.3514 %
+Incorrectly Classified Instances        35               23.6486 %
+Kappa statistic                          0.2166
+Mean absolute error                      0.2365
+Root mean squared error                  0.4863
+Relative absolute error                 60.6606 %
+Root relative squared error            110.3664 %
+Total Number of Instances              148     
+
+trees.DecisionStump
+
+Correctly Classified Instances         108               72.973  %
+Incorrectly Classified Instances        40               27.027  %
+Kappa statistic                          0.0546
+Mean absolute error                      0.3724
+Root mean squared error                  0.4473
+Relative absolute error                 95.5155 %
+Root relative squared error            101.5058 %
+Total Number of Instances              148     
+
+trees.J48
+
+Correctly Classified Instances         110               74.3243 %
+Incorrectly Classified Instances        38               25.6757 %
+Kappa statistic                          0.2523
+Mean absolute error                      0.3145
+Root mean squared error                  0.4571
+Relative absolute error                 80.6792 %
+Root relative squared error            103.7427 %
+Total Number of Instances              148     
+
+trees.RandomForest
+
+Correctly Classified Instances         111               75      %
+Incorrectly Classified Instances        37               25      %
+Kappa statistic                          0.1352
+Mean absolute error                      0.3089
+Root mean squared error                  0.426 
+Relative absolute error                 79.2401 %
+Root relative squared error             96.6915 %
+Total Number of Instances              148     
+
+trees.REPTree
+
+Correctly Classified Instances         112               75.6757 %
+Incorrectly Classified Instances        36               24.3243 %
+Kappa statistic                          0.2347
+Mean absolute error                      0.3453
+Root mean squared error                  0.4451
+Relative absolute error                 88.5619 %
+Root relative squared error            101.0233 %
+Total Number of Instances              148     
+
